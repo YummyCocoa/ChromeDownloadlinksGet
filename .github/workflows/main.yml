@@ -31,6 +31,15 @@ jobs:
           name: output-file
           path: chrome_data.json
 
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Automated update"
+          add: '*.json'
+
+      - name: Rename file
+        run: mv chrome_data.json latestChromeData.json
+
       - name: copy file via ssh password
         uses: appleboy/scp-action@v0.1.7
         with:
@@ -38,5 +47,5 @@ jobs:
           username: ${{ secrets.SERVER_USERNAME }}
           password: ${{ secrets.SERVER_PRIVATE_KEY }}
           port: 22
-          source: "chrome_data.json"
+          source: "latestChromeData.json"
           target: ${{ secrets.SERVER_DEPLOY }}/
