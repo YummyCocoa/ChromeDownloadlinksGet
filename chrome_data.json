@@ -30,15 +30,15 @@
       "link": "https://dl.google.com/release2/chrome/acwiflbk66xotb6phh36yahlri4q_125.0.6368.2/125.0.6368.2_chrome_installer.exe",
       "sha": "55AF15309F6B9A84C3C01AC6C6C80143BA1AAA0B"
     },
-    "v125.0.6377.0_x64": {
+    "v125.0.6378.0_x64": {
       "tag": "Windows 金丝雀版 64 位",
-      "link": "https://dl.google.com/release2/chrome/addvf5pqhve2m3h7qqkqdh2vqi5q_125.0.6377.0/125.0.6377.0_chrome_installer.exe",
-      "sha": "1F79A0A672FC8CD05EE8B61C84137CF2B6E90428"
+      "link": "https://dl.google.com/release2/chrome/nnpeordkgjs2ftc4phiklz3rwu_125.0.6378.0/125.0.6378.0_chrome_installer.exe",
+      "sha": "C7FEDE0C7EB2283E8DC4D5C3313A568D8DDE799F"
     },
-    "v125.0.6377.0": {
+    "v125.0.6378.0": {
       "tag": "Windows 金丝雀版 32 位",
-      "link": "https://dl.google.com/release2/chrome/g76dpr44fb2zcz7xzo4xtnamxq_125.0.6377.0/125.0.6377.0_chrome_installer.exe",
-      "sha": "B784676BF0D887D54BAD1E12898F3372DD4B3171"
+      "link": "https://dl.google.com/release2/chrome/aduv5zhwp2u4eu4v22y7a6dwcoya_125.0.6378.0/125.0.6378.0_chrome_installer.exe",
+      "sha": "CBBE940EA66C3CB6A48B5D1F6687FCAE2A88A500"
     }
   },
   "Windows7": {
@@ -69,10 +69,10 @@
       "link": "https://dl.google.com/release2/chrome/acfl3sx36sitwngwibs3w4padcha_125.0.6368.2/GoogleChromeDev-125.0.6368.2.dmg",
       "sha": "5A6C4023B39642089CCA31DB396034C5BED94568"
     },
-    "v125.0.6377.0": {
+    "v125.0.6378.0": {
       "tag": "macOS 金丝雀版",
-      "link": "https://dl.google.com/release2/chrome/n33x6bingalcfvgi4phhwbcoie_125.0.6377.0/GoogleChromeCanary-125.0.6377.0.dmg",
-      "sha": "AE93C80AF92F4423F3643F650B5C50A8A9169CE7"
+      "link": "https://dl.google.com/release2/chrome/bqd2p6x74jt7x5uafpwwsvjgbq_125.0.6378.0/GoogleChromeCanary-125.0.6378.0.dmg",
+      "sha": "52445ACC3DA12853181E88C6A8B6CFB7DA1297DB"
     }
   }
 }
