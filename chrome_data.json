@@ -1,78 +1,78 @@
 {
   "Windows": {
-    "v123.0.6312.59_x64": {
+    "v123.0.6312.86_x64": {
       "tag": "Windows 正式版 / 稳定版 64 位",
-      "link": "https://dl.google.com/release2/chrome/bo5bx4ow6y5satz5ndsascxvo4_123.0.6312.59/123.0.6312.59_chrome_installer.exe",
-      "sha": "61F169A5E6CF65BD967C6CDA7F0A901CCC4D77B3"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ckimvggweq54jyvja3ixqplgjm_123.0.6312.86/123.0.6312.86_chrome_installer.exe",
+      "sha": "6AE8AFFDEF84EE944C11F37FA6D69C6CB19966F9"
     },
-    "v123.0.6312.59": {
+    "v123.0.6312.86": {
       "tag": "Windows 正式版 / 稳定版 32 位",
-      "link": "https://dl.google.com/release2/chrome/itpbcwawcezkjfkz4kkxw6dyki_123.0.6312.59/123.0.6312.59_chrome_installer.exe",
-      "sha": "6B2C0C8FAD80611AFFC0A0C145AEC4D1F1DEF00B"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/h3j2suplioizrc6bdy2qrwucva_123.0.6312.86/123.0.6312.86_chrome_installer.exe",
+      "sha": "2D568CF8458A188ADFF7ABE0585449B017FF4BA9"
     },
     "v124.0.6367.8_x64": {
       "tag": "Windows 测试版 64 位",
-      "link": "https://dl.google.com/release2/chrome/acmg57r6tdd2hezati7wugo5okca_124.0.6367.8/124.0.6367.8_chrome_installer.exe",
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acmg57r6tdd2hezati7wugo5okca_124.0.6367.8/124.0.6367.8_chrome_installer.exe",
       "sha": "8EC41E560812D0AE6F1838C77B68DC92767A7782"
     },
     "v124.0.6367.8": {
       "tag": "Windows 测试版 32 位",
-      "link": "https://dl.google.com/release2/chrome/n56c2nkavjvitbyd6vkgsf6cm4_124.0.6367.8/124.0.6367.8_chrome_installer.exe",
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/n56c2nkavjvitbyd6vkgsf6cm4_124.0.6367.8/124.0.6367.8_chrome_installer.exe",
       "sha": "66693D78C7A7BF612253E017902A36D39D82CA40"
     },
     "v125.0.6368.2_x64": {
       "tag": "Windows 开发版 64 位",
-      "link": "https://dl.google.com/release2/chrome/acfu7a3beubvacpjcahfggdswmnq_125.0.6368.2/125.0.6368.2_chrome_installer.exe",
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acfu7a3beubvacpjcahfggdswmnq_125.0.6368.2/125.0.6368.2_chrome_installer.exe",
       "sha": "6D86144BB26B2D28F779CCBF1EA9404E483C830F"
     },
     "v125.0.6368.2": {
       "tag": "Windows 开发版 32 位",
-      "link": "https://dl.google.com/release2/chrome/acwiflbk66xotb6phh36yahlri4q_125.0.6368.2/125.0.6368.2_chrome_installer.exe",
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acwiflbk66xotb6phh36yahlri4q_125.0.6368.2/125.0.6368.2_chrome_installer.exe",
       "sha": "55AF15309F6B9A84C3C01AC6C6C80143BA1AAA0B"
     },
-    "v125.0.6378.0_x64": {
+    "v125.0.6381.0_x64": {
       "tag": "Windows 金丝雀版 64 位",
-      "link": "https://dl.google.com/release2/chrome/nnpeordkgjs2ftc4phiklz3rwu_125.0.6378.0/125.0.6378.0_chrome_installer.exe",
-      "sha": "C7FEDE0C7EB2283E8DC4D5C3313A568D8DDE799F"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/lofu7dyyp2tvxc6w3itfc7gdl4_125.0.6381.0/125.0.6381.0_chrome_installer.exe",
+      "sha": "ED1284B0A3CACBA0AE302F91B2FBA8EF65F95B7C"
     },
-    "v125.0.6378.0": {
+    "v125.0.6381.0": {
       "tag": "Windows 金丝雀版 32 位",
-      "link": "https://dl.google.com/release2/chrome/aduv5zhwp2u4eu4v22y7a6dwcoya_125.0.6378.0/125.0.6378.0_chrome_installer.exe",
-      "sha": "CBBE940EA66C3CB6A48B5D1F6687FCAE2A88A500"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/howuttbt5qstu5m4oupeaqkjuq_125.0.6381.0/125.0.6381.0_chrome_installer.exe",
+      "sha": "61332A56EEAB498DBE187EC618FC29011CFF45F4"
     }
   },
   "Windows7": {
     "v109.0.5414.120_x64": {
       "tag": "Win7/8 开发版 64 位",
-      "link": "https://dl.google.com/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe",
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe",
       "sha": "AB09D7E36DF282897E9C8CD7E2402D70CB783956"
     },
     "v109.0.5414.120": {
       "tag": "Win7/8 开发版 32 位",
-      "link": "https://dl.google.com/release2/chrome/acihtkcueyye3ymoj2afvv7ulzxa_109.0.5414.120/109.0.5414.120_chrome_installer.exe",
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acihtkcueyye3ymoj2afvv7ulzxa_109.0.5414.120/109.0.5414.120_chrome_installer.exe",
       "sha": "3EA194B328B60259975B19E4CC6CB87ACEE7E3C4"
     }
   },
   "macOS": {
-    "v123.0.6312.59": {
+    "v123.0.6312.87": {
       "tag": "macOS 正式版 / 稳定版",
-      "link": "https://dl.google.com/release2/chrome/eth6jygqgb4bf4qjfyv6wpwme4_123.0.6312.59/GoogleChrome-123.0.6312.59.dmg",
-      "sha": "DCA70DE85FF902BCA261AFF1D727D4E5620EC400"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/advjfkjowjp6xi7kd6igllap3nsa_123.0.6312.87/GoogleChrome-123.0.6312.87.dmg",
+      "sha": "5AEEADCD67077DEE92B1FBACE9B39C6438D6EDF5"
     },
     "v124.0.6367.8": {
       "tag": "macOS 测试版",
-      "link": "https://dl.google.com/release2/chrome/l773r4e5mtvoi4vrp53b4qqy5y_124.0.6367.8/GoogleChromeBeta-124.0.6367.8.dmg",
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/l773r4e5mtvoi4vrp53b4qqy5y_124.0.6367.8/GoogleChromeBeta-124.0.6367.8.dmg",
       "sha": "41E981393C19AF889A09F71439B2728169478C17"
     },
     "v125.0.6368.2": {
       "tag": "macOS 开发版",
-      "link": "https://dl.google.com/release2/chrome/acfl3sx36sitwngwibs3w4padcha_125.0.6368.2/GoogleChromeDev-125.0.6368.2.dmg",
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acfl3sx36sitwngwibs3w4padcha_125.0.6368.2/GoogleChromeDev-125.0.6368.2.dmg",
       "sha": "5A6C4023B39642089CCA31DB396034C5BED94568"
     },
-    "v125.0.6378.0": {
+    "v125.0.6381.0": {
       "tag": "macOS 金丝雀版",
-      "link": "https://dl.google.com/release2/chrome/bqd2p6x74jt7x5uafpwwsvjgbq_125.0.6378.0/GoogleChromeCanary-125.0.6378.0.dmg",
-      "sha": "52445ACC3DA12853181E88C6A8B6CFB7DA1297DB"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/gui3lf4uhn4mxqef6okxj3k6n4_125.0.6381.0/GoogleChromeCanary-125.0.6381.0.dmg",
+      "sha": "AB9AAF85258FE6D88FFC5276DFA82994D6D30D54"
     }
   }
 }
