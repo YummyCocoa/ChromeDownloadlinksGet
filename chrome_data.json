@@ -30,15 +30,15 @@
       "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/n3g76jbwblvjhjwhsnyaqw4hae_130.0.6710.0/130.0.6710.0_chrome_installer.exe",
       "sha": "2F1E6CD46772AFCD565A9CC1F1DF85F0BCC3E0C0"
     },
-    "v130.0.6715.0_x64": {
+    "v130.0.6720.0_x64": {
       "tag": "Windows 金丝雀版 64 位",
-      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acskyd44e74ixmh5pt32zdzi7fea_130.0.6715.0/130.0.6715.0_chrome_installer.exe",
-      "sha": "2B495B39426F1B2E775CFD495B49222E260FA373"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acpfxu6zugj53iujn23sxig3faqq_130.0.6720.0/130.0.6720.0_chrome_installer.exe",
+      "sha": "BBBE6A4286DAD143E336B1A828DF83D87A46DA7C"
     },
-    "v130.0.6715.0": {
+    "v130.0.6720.0": {
       "tag": "Windows 金丝雀版 32 位",
-      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/poaeedb23gqqhn6otoeyj5bxge_130.0.6715.0/130.0.6715.0_chrome_installer.exe",
-      "sha": "45B737A872DAA1099B407223C253EE79676B8805"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/dyz743w4krecels3blcci2i4r4_130.0.6720.0/130.0.6720.0_chrome_installer.exe",
+      "sha": "7E31CC12A96DD32DA7A36DBCB02451208E11FCF8"
     }
   },
   "Windows7": {
@@ -69,10 +69,10 @@
       "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adthzcluoukf3v2tnhlovlew7hqq_130.0.6710.0/GoogleChromeDev-130.0.6710.0.dmg",
       "sha": "B968E18D73935E96F51CF5E4FB4B281E4393AEDD"
     },
-    "v130.0.6718.0": {
+    "v130.0.6720.0": {
       "tag": "macOS 金丝雀版",
-      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adkbcru7hfljv7zjiaey5pbzleta_130.0.6718.0/GoogleChromeCanary-130.0.6718.0.dmg",
-      "sha": "0794F5E4153627C9C5949CA6AB051DAA074DD884"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adv6cimht652bwzems7clcdx2dga_130.0.6720.0/GoogleChromeCanary-130.0.6720.0.dmg",
+      "sha": "90167C01BA63D94D5A7257F0E3D13F206E2535C2"
     }
   }
 }
