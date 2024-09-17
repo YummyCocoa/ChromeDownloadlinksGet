@@ -30,10 +30,10 @@
       "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/n3g76jbwblvjhjwhsnyaqw4hae_130.0.6710.0/130.0.6710.0_chrome_installer.exe",
       "sha": "2F1E6CD46772AFCD565A9CC1F1DF85F0BCC3E0C0"
     },
-    "v130.0.6720.0_x64": {
+    "v130.0.6720.1_x64": {
       "tag": "Windows 金丝雀版 64 位",
-      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acpfxu6zugj53iujn23sxig3faqq_130.0.6720.0/130.0.6720.0_chrome_installer.exe",
-      "sha": "BBBE6A4286DAD143E336B1A828DF83D87A46DA7C"
+      "link": "https://edgedl.me.gvt1.com/edgedl/release2/chrome/mxmdytdmaffrz55qxmhnlveg7y_130.0.6720.1/130.0.6720.1_chrome_installer.exe",
+      "sha": "67824A23036A98AE5AED42097996B72A2AAF2C3A"
     },
     "v130.0.6720.0": {
       "tag": "Windows 金丝雀版 32 位",
